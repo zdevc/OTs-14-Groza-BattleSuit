@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Groza_head">
+	<inherit entity="Female" mesh_ref="mesh"/>
+	<state id="_mesh">
+		<mesh_ref ref="mesh"/>
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Groza_head_mesh.m.hgm"/>
+			<material file="Materials/Groza_head_mesh.mtl"/>
+			<bsphere value="-8.320,0.528,115.784,63.522"/>
+			<box min="-37.413,-12.835,54.696" max="20.773,13.890,176.872"/>
+			<src file="C:/Users/zdevc/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/BlenderMOD_Apperance_Female.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>
