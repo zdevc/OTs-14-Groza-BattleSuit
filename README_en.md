@@ -5,6 +5,8 @@
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3694560137)
 [![Version](https://img.shields.io/badge/version-28-green)](https://github.com/zdevc/OTs-14-Groza-BattleSuit/releases)
 
+🌐 中文版 | [English Version](README_en.md)
+
 Jagged Alliance 3 Mod — Add **OTs-14 "Groza"** from *Girls' Frontline* as a recruitable mercenary.
 
 ---
