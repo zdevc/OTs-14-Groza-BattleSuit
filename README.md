@@ -5,6 +5,8 @@
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3694560137)
 [![Version](https://img.shields.io/badge/version-28-green)](https://github.com/zdevc/OTs-14-Groza-BattleSuit/releases)
 
+🌐 [English Version](README_en.md) | 中文版
+
 《铁血联盟 3》模组 —— 来自《少女前线》的战术人形 **OTs-14「闪电」**
 
 ---
